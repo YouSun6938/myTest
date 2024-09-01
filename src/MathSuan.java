@@ -7,6 +7,7 @@ public class MathSuan {
             return -1;
         }
         //oof
+        //mastftl
         return a-b;
     }
 
