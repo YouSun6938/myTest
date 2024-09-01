@@ -6,6 +6,7 @@ public class MathSuan {
         if (a==0){
             return -1;
         }
+        //oof
         return a-b;
     }
 
